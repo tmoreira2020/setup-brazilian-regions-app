@@ -22,7 +22,7 @@
 	<parent>
 		<groupId>br.com.thiagomoreira.liferay.plugins.setup-brazilian-regions-app</groupId>
 		<artifactId>setup-brazilian-regions-app-parent</artifactId>
-		<version>1.0.0</version>
+		<version>1.0.1-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>setup-brazilian-regions-app</artifactId>
