@@ -1,6 +1,7 @@
 Setup Brazilian Regions App
 ==========
 [![Build Status](https://travis-ci.org/tmoreira2020/setup-brazilian-regions-app.svg?branch=master)](https://travis-ci.org/tmoreira2020/setup-brazilian-regions-app)
+[![Coverage Status](https://coveralls.io/repos/tmoreira2020/setup-brazilian-regions-app/badge.png?branch=master)](https://coveralls.io/r/tmoreira2020/setup-brazilian-regions-app?branch=master)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/br.com.thiagomoreira.liferay.plugins.setup-brazilian-regions-app/setup-brazilian-regions-app/badge.svg)](https://maven-badges.herokuapp.com/maven-central/br.com.thiagomoreira.liferay.plugins.setup-brazilian-regions-app/setup-brazilian-regions-app)
 
 This app adds the 26 states of Brazil as regions to the Brazil country entity. It enable users to create more complete Brazil's addresses for themselves, contacts and companies.
