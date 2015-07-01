@@ -27,7 +27,7 @@
 
 	<groupId>br.com.thiagomoreira.liferay.plugins.setup-brazilian-regions-app</groupId>
 	<artifactId>setup-brazilian-regions-app-parent</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>pom</packaging>
 
 	<name>Setup Brazilian Regions App Parent</name>
@@ -44,7 +44,7 @@
 		<connection>scm:git:git@github.com:tmoreira2020/setup-brazilian-regions-app.git</connection>
 		<developerConnection>scm:git:git@github.com:tmoreira2020/setup-brazilian-regions-app.git</developerConnection>
 		<url>https://github.com/tmoreira2020/setup-brazilian-regions-app</url>
-		<tag>HEAD</tag>
+		<tag>setup-brazilian-regions-app-1.0.0</tag>
 	</scm>
 
 	<properties>
